@@ -7,4 +7,4 @@ Excel, Google Таблицы, Google Data Studio, Tableau, PostgreSQL, PySpark, 
 ### Мои работы
 
 * Python. [Дипломная работа по курсу "Аналитик данных"](https://github.com/ValeriiKorolev/DAU-21-diploma)
-* PostgreSQL. 
+* PostgreSQL. [Авиаперевозки по России. Курсовая работа]()
