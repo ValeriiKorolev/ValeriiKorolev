@@ -10,4 +10,6 @@ Excel, Google Таблицы, Google Data Studio, Tableau, PostgreSQL, PySpark, 
 * PostgreSQL. [Авиаперевозки по России. Курсовая работа](https://github.com/ValeriiKorolev/SQL-36-final)
 * Google Таблицы, Python, PySpark. [Онлайн кинотеатр. Курсовая работа](https://github.com/ValeriiKorolev/BigData-final)
 * Java. [Поисковая система. Дипломная работа](https://github.com/ValeriiKorolev/pcs-jd-diplom)
-* Java. []
+* Java. [Менеджер задач. Курсовая работа](https://github.com/ValeriiKorolev/pcs-javacore)
+
+### Дипломы и сертификаты
