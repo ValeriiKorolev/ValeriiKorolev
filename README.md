@@ -6,7 +6,7 @@ Excel, Google Таблицы, Google Data Studio, Power BI, Tableau, PostgreSQL,
 
 ### Мои работы
 
-* Power BI. [Тестовая работа "Аналитика продаж"]()
+* Power BI. [Тестовая работа "Аналитика продаж"](https://github.com/ValeriiKorolev/Sales-analisys)
 * Python. [Дипломная работа по курсу "Аналитик данных"](https://github.com/ValeriiKorolev/DAU-21-diploma)
 * PostgreSQL. [Авиаперевозки по России. Курсовая работа](https://github.com/ValeriiKorolev/SQL-36-final)
 * Google Таблицы, Python, PySpark. [Онлайн кинотеатр. Курсовая работа](https://github.com/ValeriiKorolev/BigData-final)
